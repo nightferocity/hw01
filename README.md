@@ -1,5 +1,6 @@
 # hw01
 docker build -f Dockerfile -t hw01-docker .
+
 docker run -p 8033:8033 -e ARGS="--greet=Я/МыУспели"  hw01-docker 
 
 result
