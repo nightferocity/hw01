@@ -47,6 +47,7 @@
                 <version>2.7.3</version>
             </plugin>
         </plugins>
+        <finalName>hw01-docker</finalName>
     </build>
 
 </project>
